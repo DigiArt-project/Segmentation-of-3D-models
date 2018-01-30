@@ -20,21 +20,12 @@ these variables have to be set in computePlanes.m and in pointToImage.m files (w
 In order to run the whole script for combined (2D/3D) segmentation, you run the example.m, where you have to load your .obj file and set the value for the RANSAC threshold. 
 
 
-Copyrights:
--fitplane.m
--iscolinear.m
--isdegegenerate.m
--ransac.m
--ransacfitplane.m
--dbscan.m
+Copyrights: fitplane.m, iscolinear.m, isdegegenerate.m, ransac.m, ransacfitplane.m, dbscan.m
 have been written by Peter Kovesi and downloaded from http://www.peterkovesi.com/matlabfns/
 
--Rfromangles.m
--colinearity.m
-have been written by I. Kalisperakis et al and downloaded from http://photogram.tg.teiath.gr/?page_id=122
+Rfromangles.m, colinearity.m have been written by I. Kalisperakis et al and downloaded from http://photogram.tg.teiath.gr/?page_id=122
 
--readObj.m
-has been written by Bernard Abayowa and downloaded from https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/65052/versions/1/previews/PN_triangle/readObj.m/index.html?access_key=
+readObj.m has been written by Bernard Abayowa and downloaded from https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/65052/versions/1/previews/PN_triangle/readObj.m/index.html?access_key=
 
 
 
